@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "HomepageBaukasten";
+    src: url("HomepageBaukasten-Bold.ttf");
+  }
+
+  .bg-port{
+      background-color: #00A9A5;
+  }
+
+.main-nav a{
+    color: #fff;
+}
+.name-text{
+    font-family: HomepageBaukasten;
+    font-size: 3.25rem;
+}
+.name-text h1{
+    font-size: 3.25rem;
+}
+.bg-black{
+    background-color: rgb(20, 20, 20);
+}
